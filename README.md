@@ -5,18 +5,18 @@
 <h1>osTicket: Post Installation Configuration</h1>
 
 <h1>Enviornments and Technologies Used</h1>
-  - Microsoft Azure (Virtual Machines/Compute)
-  - Remote Desktop
-  - Internet Information Services (IIS) 
+  - Microsoft Azure (Virtual Machines/Compute)<br>
+  - Remote Desktop<br>
+  - Internet Information Services (IIS)<br>
 
 <h1>Operating System Used</h1>
   - Windows 10 (21H2)
 
 <h1>Post-Install Configuration Objectives</h1>
-  - Item 1 
-  - Item 2
-  - Item 3
-  - Item 4
-  - Item 5
+  - Item 1<br>
+  - Item 2<br>
+  - Item 3<br>
+  - Item 4<br>
+  - Item 5<br>
 
 <h1>Configuration Steps</h1>
