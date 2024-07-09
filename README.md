@@ -3,6 +3,7 @@
 </p>
 
 <h1>osTicket: Post Installation Configuration</h1>
+Filling out osTicket on both admin and agent side.
 
 <h1>Enviornments and Technologies Used</h1>
   - Microsoft Azure (Virtual Machines/Compute)<br>
