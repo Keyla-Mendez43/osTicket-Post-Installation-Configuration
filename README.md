@@ -22,7 +22,8 @@
   - Configure Help Topics<br>
 
 <h1>Configuration Steps</h1>
-![image](https://github.com/Keyla-Mendez43/osTicket-Post-Installation-Configuration/assets/174077223/e9ebd8d6-04b6-4828-a8cf-87d5d3d782d9)
+![image](https://github.com/Keyla-Mendez43/osTicket-Post-Installation-Configuration/assets/174077223/0ac2b919-769a-48b0-9e30-fcead66eedf8)
+
 
 In the image above, a role was configured as Supreme Admin.
 
